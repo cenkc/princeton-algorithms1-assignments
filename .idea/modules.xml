@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../perc/princeton-algorithms1-assignments-percolation/percolation.iml" filepath="$PROJECT_DIR$/../perc/princeton-algorithms1-assignments-percolation/percolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deques-rand-queues/deques-rand-queues.iml" filepath="$PROJECT_DIR$/deques-rand-queues/deques-rand-queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/percolation/percolation.iml" filepath="$PROJECT_DIR$/percolation/percolation.iml" />
     </modules>
   </component>
 </project>
